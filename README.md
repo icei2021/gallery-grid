@@ -1,4 +1,4 @@
-##Aprendiendo CSS-GRID
+## Aprendiendo CSS-GRID
 
 Galeria maquetada con CSS-GRID desarrollado con los estudiantes del módulo 2 (Lunes - viernes) Turno noche.
 
